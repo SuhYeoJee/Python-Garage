@@ -16,7 +16,7 @@ def decorator_template(func):
 # [Example] ==================================================
 # my_func 함수의 앞, 뒤에 print 동작을 추가하는 예제
 # ============================================================
-def my_decorator(func):
+def my_decorator(func): # 데코레이터 정의
     def wrapper(*args, **kwargs):
         print("before func")
         result = func(*args, **kwargs)
@@ -24,7 +24,7 @@ def my_decorator(func):
         return result
     return wrapper
 
-@my_decorator
+@my_decorator # 데코레이터 사용
 def my_func():
     print('hi')
 
