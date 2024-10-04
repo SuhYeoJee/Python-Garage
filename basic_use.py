@@ -2,13 +2,13 @@
 # description
 
 # [Template] ==================================================
-def my_template(func):
+def my_template():
     ...
 
 # [Example] ==================================================
 # example description
 # ============================================================
-def my_example(func):
+def my_example():
     ...
 
 if __name__ == "__main__":
