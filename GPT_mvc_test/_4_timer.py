@@ -2,7 +2,7 @@ import sys
 import random
 import time
 from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton, QVBoxLayout, QWidget, QLabel
-from PyQt5.QtCore import QThread, pyqtSignal, QTimer
+from PyQt5.QtCore import QThread, pyqtSignal
 
 # Model
 class Model:
@@ -52,19 +52,11 @@ class Controller:
         # Connect worker's finished signal to update the view
         self.worker = None
 
-        # Timer for repeated tasks
-        self.timer = QTimer()
-        self.timer.timeout.connect(self.start_task)
-
     def start_task(self):
         self.view.label.setText("작업 중...")
         self.worker = Worker(self.model)
         self.worker.finished.connect(self.on_finished)
         self.worker.start()
-        
-        # Start the timer if not already running
-        if not self.timer.isActive():
-            self.timer.start(5000)  # 5초마다 호출
 
     def on_finished(self, result):
         self.view.label.setText(result)
