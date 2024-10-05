@@ -26,6 +26,9 @@ def print_all_item(q:queue.Queue):
     while not q.empty():
         print(q.get())
 
+def get_cnt_item(q:queue.Queue,cnt:int):
+    return [q.get() for _ in range(cnt)]
+
 def put_all_and_print_all(q:queue.Queue):
     my_list = [1,4,2,5,3,7,2,5]
     put_list_data(q,my_list)
