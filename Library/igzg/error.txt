@@ -1,0 +1,10 @@
+2025-01-07 20:21:18
+    [ZeroDivisionError] - Second argument to a division or modulo operation was zero.
+    function: igzg_utils_exapmle(('division by zero',))
+    traceback: Traceback (most recent call last):
+  File "X:\github\Python-Garage\Library\igzg\basic_use.py", line 15, in igzg_utils_exapmle
+    _ = 1/0
+        ~^~
+ZeroDivisionError: division by zero
+
+    
