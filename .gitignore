@@ -1,6 +1,15 @@
 downloaded_images/
 Test/
 
+#randomStickerTitle
+randomStickerTitle/sticker/*.png
+
+#dailyTable
+dailyTable/bgimg/*.png
+dailyTable/check/*.png
+dailyTable/font/*.ttf
+dailyTable/icon/*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
