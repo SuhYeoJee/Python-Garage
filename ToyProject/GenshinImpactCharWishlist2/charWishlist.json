@@ -1,0 +1,552 @@
+{
+    "wishlists":[
+        {
+            "version_number": "상시",
+            "wishlist":{
+                "phase1" : ["각청","다이루크","모나","진","치치","타이나리","데히야"]
+            }
+        },
+        {
+            "version_number": "1.0",
+            "wishlist":{
+                "phase1" : ["벤티"],
+                "phase2" : ["클레"]
+            }
+        },
+        {
+            "version_number": "1.1",
+            "wishlist":{
+                "phase1" : ["타르탈리아"],
+                "phase2" : ["종려"]
+            }
+        },
+        {
+            "version_number": "1.2",
+            "wishlist":{
+                "phase1" : ["알베도"],
+                "phase2" : ["감우"]
+            }
+        },
+        {
+            "version_number": "1.3",
+            "wishlist":{
+                "phase1" : ["소"],
+                "phase2" : ["각청"],
+                "phase3" : ["호두"]
+            }
+        },
+        {
+            "version_number": "1.4",
+            "wishlist":{
+                "phase1" : ["벤티"],
+                "phase2" : ["타르탈리아"]
+            }
+        },
+        {
+            "version_number": "1.5",
+            "wishlist":{
+                "phase1" : ["종려"],
+                "phase2" : ["유라"]
+            }
+        },
+        {
+            "version_number": "1.6",
+            "wishlist":{
+                "phase1" : ["클레"],
+                "phase2" : ["카즈하"]
+            }
+        },
+        {
+            "version_number": "2.0",
+            "wishlist":{
+                "phase1" : ["아야카"],
+                "phase2" : ["요이미야"]
+            }
+        },
+        {
+            "version_number": "2.1",
+            "wishlist":{
+                "phase1" : ["라이덴"],
+                "phase2" : ["코코미"]
+            }
+        },
+        {
+            "version_number": "2.2",
+            "wishlist":{
+                "phase1" : ["타르탈리아"],
+                "phase2" : ["호두"]
+            }
+        },
+        {
+            "version_number": "2.3",
+            "wishlist":{
+                "phase1" : ["알베도","유라"],
+                "phase2" : ["이토"]
+            }
+        },
+        {
+            "version_number": "2.4",
+            "wishlist":{
+                "phase1" : ["신학","소"],
+                "phase2" : ["종려","감우"]
+            }
+        },
+        {
+            "version_number": "2.5",
+            "wishlist":{
+                "phase1" : ["야에"],
+                "phase2" : ["라이덴","코코미"]
+            }
+        },
+        {
+            "version_number": "2.6",
+            "wishlist":{
+                "phase1" : ["아야토","벤티"],
+                "phase2" : ["아야카"]
+            }
+        },
+        {
+            "version_number": "2.7",
+            "wishlist":{
+                "phase1" : ["야란","소"],
+                "phase2" : ["이토"]
+            }
+        },
+        {
+            "version_number": "2.8",
+            "wishlist":{
+                "phase1" : ["카즈하","클레"],
+                "phase2" : ["요이미야"]
+            }
+        },
+        {
+            "version_number": "3.0",
+            "wishlist":{
+                "phase1" : ["타이나리","종려"],
+                "phase2" : ["감우","코코미"]
+            }
+        },
+        {
+            "version_number": "3.1",
+            "wishlist":{
+                "phase1" : ["사이노","벤티"],
+                "phase2" : ["닐루","알베도"]
+            }
+        },
+        {
+            "version_number": "3.2",
+            "wishlist":{
+                "phase1" : ["나히다","요이미야"],
+                "phase2" : ["야에","타르탈리아"]
+            }
+        },
+        {
+            "version_number": "3.3",
+            "wishlist":{
+                "phase1" : ["방랑자","이토"],
+                "phase2" : ["라이덴","아야토"]
+            }
+        },
+        {
+            "version_number": "3.4",
+            "wishlist":{
+                "phase1" : ["알하이탐","소"],
+                "phase2" : ["호두","야란"]
+            }
+        },
+        {
+            "version_number": "3.5",
+            "wishlist":{
+                "phase1" : ["데히야","사이노"],
+                "phase2" : ["신학","아야카"]
+            }
+        },
+        {
+            "version_number": "3.6",
+            "wishlist":{
+                "phase1" : ["나히다","닐루"],
+                "phase2" : ["백출","감우"]
+            }
+        },
+        {
+            "version_number": "3.7",
+            "wishlist":{
+                "phase1" : ["요이미야","야에"],
+                "phase2" : ["알하이탐","카즈하"]
+            }
+        },
+        {
+            "version_number": "3.8",
+            "wishlist":{
+                "phase1" : ["유라","클레"],
+                "phase2" : ["코코미","방랑자"]
+            }
+        },
+        {
+            "version_number": "4.0",
+            "wishlist":{
+                "phase1" : ["리니","야란"],
+                "phase2" : ["종려","타르탈리아"]
+            }
+        },
+        {
+            "version_number": "4.1",
+            "wishlist":{
+                "phase1" : ["느비예트","호두"],
+                "phase2" : ["라이오슬리","벤티"]
+            }
+        },
+        {
+            "version_number": "4.2",
+            "wishlist":{
+                "phase1" : ["푸리나","백출"],
+                "phase2" : ["사이노","아야토"]
+            }
+        },
+        {
+            "version_number": "4.3",
+            "wishlist":{
+                "phase1" : ["나비아","아야카"],
+                "phase2" : ["라이덴","요이미야"]
+            }
+        },
+        {
+            "version_number": "4.4",
+            "wishlist":{
+                "phase1" : ["한운","나히다"],
+                "phase2" : ["소","야에"]
+            }
+        },
+        {
+            "version_number": "4.5",
+            "wishlist":{
+                "phase1" : ["치오리","이토"],
+                "phase2" : ["느비예트","카즈하"]
+            }
+        },
+        {
+            "version_number": "4.6",
+            "wishlist":{
+                "phase1" : ["아를레키노","리니"],
+                "phase2" : ["방랑자","백출"]
+            }
+        },
+        {
+            "version_number": "4.7",
+            "wishlist":{
+                "phase1" : ["클로린드","알하이탐"],
+                "phase2" : ["시그윈","푸리나"]
+            }
+        },
+        {
+            "version_number": "4.8",
+            "wishlist":{
+                "phase1" : ["나비아","닐루"],
+                "phase2" : ["에밀리","야란"]
+            }
+        },
+        {
+            "version_number": "5.0",
+            "wishlist":{
+                "phase1" : ["말라니","카즈하"],
+                "phase2" : ["키니치","라이덴"]
+            }
+        },
+        {
+            "version_number": "5.1",
+            "wishlist":{
+                "phase1" : ["실로닌","치오리"],
+                "phase2" : ["나히다","호두"]
+            }
+        },
+        {
+            "version_number": "5.2",
+            "wishlist":{
+                "phase1" : ["차스카","리니"],
+                "phase2" : ["느비예트","종려"]
+            }
+        },
+        {
+            "version_number": "5.3",
+            "wishlist":{
+                "phase1" : ["마비카","시틀라리"],
+                "phase2" : ["아를레키노","클로린드"]
+            }
+        }
+    ],
+    "results":[
+        {
+            "version_number": "상시",
+            "wishlist":{
+                "phase1" : ["각청","다이루크","모나","진","치치","타이나리","데히야"]
+            }
+        },
+        {
+            "version_number": "1.0",
+            "wishlist":{
+                "phase1" : ["다이루크","벤티"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "1.1",
+            "wishlist":{
+                "phase1" : ["타르탈리아 *1"],
+                "phase2" : ["진","종려"]
+            }
+        },
+        {
+            "version_number": "1.2",
+            "wishlist":{
+                "phase1" : ["알베도"],
+                "phase2" : ["모나"]
+            }
+        },
+        {
+            "version_number": "1.3",
+            "wishlist":{
+                "phase1" : ["소"],
+                "phase2" : ["^"],
+                "phase3" : ["^"]
+            }
+        },
+        {
+            "version_number": "1.4",
+            "wishlist":{
+                "phase1" : ["^"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "1.5",
+            "wishlist":{
+                "phase1" : ["종려 *2"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "1.6",
+            "wishlist":{
+                "phase1" : ["^"],
+                "phase2" : ["다이루크 *1"]
+            }
+        },
+        {
+            "version_number": "2.0",
+            "wishlist":{
+                "phase1" : ["^"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "2.1",
+            "wishlist":{
+                "phase1" : ["^"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "2.2",
+            "wishlist":{
+                "phase1" : ["^"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "2.3",
+            "wishlist":{
+                "phase1" : ["^"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "2.4",
+            "wishlist":{
+                "phase1" : ["소 *1","다이루크 *2"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "2.5",
+            "wishlist":{
+                "phase1" : ["^"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "2.6",
+            "wishlist":{
+                "phase1" : ["^"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "2.7",
+            "wishlist":{
+                "phase1" : ["야란"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "2.8",
+            "wishlist":{
+                "phase1" : ["카즈하"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "3.0",
+            "wishlist":{
+                "phase1" : ["^"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "3.1",
+            "wishlist":{
+                "phase1" : ["치치","사이노","타이나리"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "3.2",
+            "wishlist":{
+                "phase1" : ["나히다"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "3.3",
+            "wishlist":{
+                "phase1" : ["다이루크 *3","방랑자"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "3.4",
+            "wishlist":{
+                "phase1" : ["^"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "3.5",
+            "wishlist":{
+                "phase1" : ["^"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "3.6",
+            "wishlist":{
+                "phase1" : ["^"],
+                "phase2" : ["백출"]
+            }
+        },
+        {
+            "version_number": "3.7",
+            "wishlist":{
+                "phase1" : ["^"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "3.8",
+            "wishlist":{
+                "phase1" : ["^"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "4.0",
+            "wishlist":{
+                "phase1" : ["^"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "4.1",
+            "wishlist":{
+                "phase1" : ["느비예트","각청"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "4.2",
+            "wishlist":{
+                "phase1" : ["푸리나"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "4.3",
+            "wishlist":{
+                "phase1" : ["^"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "4.4",
+            "wishlist":{
+                "phase1" : ["데히야","한운"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "4.5",
+            "wishlist":{
+                "phase1" : ["^"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "4.6",
+            "wishlist":{
+                "phase1" : ["리니"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "4.7",
+            "wishlist":{
+                "phase1" : ["다이루크 *4"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "4.8",
+            "wishlist":{
+                "phase1" : ["닐루"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "5.0",
+            "wishlist":{
+                "phase1" : ["^"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "5.1",
+            "wishlist":{
+                "phase1" : ["실로닌"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "5.2",
+            "wishlist":{
+                "phase1" : ["다이루크 *5"],
+                "phase2" : ["^"]
+            }
+        },
+        {
+            "version_number": "5.3",
+            "wishlist":{
+                "phase1" : ["^"],
+                "phase2" : ["^"]
+            }
+        }
+    ]
+}
